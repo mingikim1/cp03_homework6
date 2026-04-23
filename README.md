@@ -1,6 +1,6 @@
 # 2026_CP03_W08
 
-## Advanced Array
+## Advanced Pointer & Array
 
 8주차 실습 자료, 이론 자료를 참고하여 code 폴더의 1-1.c부터 3-2.c까지 코드를 작성한다.   
    
