@@ -1,0 +1,6 @@
+anaconda
+ant
+apple
+banana
+cat
+mango

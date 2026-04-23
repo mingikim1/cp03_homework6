@@ -1,0 +1,2 @@
+Hello
+Segmentation fault (core dumped)
